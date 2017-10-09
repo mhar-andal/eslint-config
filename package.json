@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.6",
+  "description": "Eslint config",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "rules"
+  ],
+  "dependencies": {
+    "babel-eslint": "^7.0.0",
+    "eslint": "^3.8.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-react": "^6.10.3"
+  },
+  "peerDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-react": "^6.10.3"
+  },
+  "author": "Mhar",
+  "license": "MIT",
+}
