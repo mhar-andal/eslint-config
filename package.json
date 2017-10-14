@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config",
+  "name": "eslint-config-mhar",
   "version": "1.0.6",
-  "description": "Eslint config",
+  "description": "Eslint config mhar",
   "main": "index.js",
   "files": [
     "index.js",
